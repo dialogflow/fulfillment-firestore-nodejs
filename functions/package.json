@@ -1,0 +1,22 @@
+{
+  "name": "dialogflowFirebaseFulfillment",
+  "description": "Sample showing how to connect Dialogflow to Firebase's Firestore database",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Google Inc.",
+  "engines": {
+    "node": "~4.2"
+  },
+  "scripts": {
+    "lint": "semistandard --fix \"**/*.js\"",
+    "start": "firebase deploy --only functions",
+    "deploy": "firebase deploy --only functions"
+  },
+  "dependencies": {
+    "firebase-admin": "^5.12.1",
+    "firebase-functions": "^1.0.3",
+    "dialogflow-fulfillment": "^0.4.1",
+    "actions-on-google": "^2.1.3"
+  }
+}

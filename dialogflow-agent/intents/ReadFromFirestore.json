@@ -1,0 +1,28 @@
+{
+  "id": "f05f5b86-e03c-43ac-860b-ab324216ddd9",
+  "name": "ReadFromFirestore",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Whoops!  Looks like you haven\u0027t setup the Firestore database yet."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528910329,
+  "fallbackIntent": false,
+  "events": []
+}

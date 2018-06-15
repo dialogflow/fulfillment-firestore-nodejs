@@ -1,0 +1,7 @@
+{
+  "plugins": ["promise"],
+  "extends": ["plugin:promise/recommended"],
+  "parserOptions": {
+   "ecmaVersion": 6
+ }
+}

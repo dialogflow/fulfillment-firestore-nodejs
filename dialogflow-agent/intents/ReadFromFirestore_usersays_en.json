@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9e9b2976-6e3b-4a0e-8a7a-5ed6fe764265",
+    "data": [
+      {
+        "text": "what is in the database?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528910329
+  },
+  {
+    "id": "ef2f2ca7-c157-4567-a18a-6039a13a8399",
+    "data": [
+      {
+        "text": "read from the Firestore database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528910329
+  },
+  {
+    "id": "5501e1c7-e0dc-4085-b6d3-b0c399450405",
+    "data": [
+      {
+        "text": "read from the database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528910329
+  },
+  {
+    "id": "e011db50-03bb-401f-813d-9d7abe8e5f0b",
+    "data": [
+      {
+        "text": "read from Firestore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528910329
+  },
+  {
+    "id": "79409546-d291-4920-b00a-9499e48a839a",
+    "data": [
+      {
+        "text": "read",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528910329
+  }
+]

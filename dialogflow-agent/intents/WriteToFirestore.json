@@ -1,0 +1,43 @@
+{
+  "id": "fe1c6877-341e-4276-9a0e-674ce038cf37",
+  "name": "WriteToFirestore",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a32bdf6c-99ce-4efc-9f09-30f43d3c8e2e",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "databaseEntry",
+          "value": "$databaseEntry",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What would you like to write to the Firestore database?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Whoops, looks like you haven\u0027t setup the Firestore database yet."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528921324,
+  "fallbackIntent": false,
+  "events": []
+}

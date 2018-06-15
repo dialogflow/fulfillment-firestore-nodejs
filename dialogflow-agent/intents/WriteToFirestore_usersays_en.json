@@ -1,0 +1,130 @@
+[
+  {
+    "id": "4f23d2c5-e0dd-4333-b36e-9c9c9d5e0ef9",
+    "data": [
+      {
+        "text": "Write \"",
+        "userDefined": false
+      },
+      {
+        "text": "Dialogflow rules",
+        "alias": "databaseEntry",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "\" to the database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528921324
+  },
+  {
+    "id": "5fe03720-13e5-4ddc-af93-b0fc6301b610",
+    "data": [
+      {
+        "text": "write",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528921324
+  },
+  {
+    "id": "3d986d80-b7fb-44e4-8d41-5dba47245923",
+    "data": [
+      {
+        "text": "Can I write to the Firestore database?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528921324
+  },
+  {
+    "id": "ff76cf2e-f665-4729-9e13-e82982f60e98",
+    "data": [
+      {
+        "text": "I want to write to Firestore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528921324
+  },
+  {
+    "id": "08079921-47a8-4d51-872b-71d1aae79521",
+    "data": [
+      {
+        "text": "I want to write to the database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528921324
+  },
+  {
+    "id": "18d2aadd-549e-4193-8cff-adc3e370ec74",
+    "data": [
+      {
+        "text": "Write ",
+        "userDefined": false
+      },
+      {
+        "text": "anything",
+        "alias": "databaseEntry",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528921324
+  },
+  {
+    "id": "2967f145-5f73-4932-b0d4-ee13ad21217f",
+    "data": [
+      {
+        "text": "Please write this to the database: ",
+        "userDefined": false
+      },
+      {
+        "text": "anything",
+        "alias": "databaseEntry",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528921324
+  },
+  {
+    "id": "c086e054-dd25-4e15-b052-4f96c6cc1eb8",
+    "data": [
+      {
+        "text": "Write ",
+        "userDefined": false
+      },
+      {
+        "text": "anything",
+        "alias": "databaseEntry",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " to the database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528921324
+  }
+]

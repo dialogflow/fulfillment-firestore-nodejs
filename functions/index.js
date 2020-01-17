@@ -38,7 +38,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
       t.set(dialogflowAgentRef, {entry: databaseEntry});
       return Promise.resolve('Write complete');
     }).then(doc => {
-      agent.add(`Wrote "${databaseEntry}" to the Firestore database.`);
+      agent.add(`Write "${databaseEntry}" to the Firestore database.`);
     }).catch(err => {
       console.log(`Error writing to Firestore: ${err}`);
       agent.add(`Failed to write "${databaseEntry}" to the Firestore database.`);

@@ -14,7 +14,7 @@
     "deploy": "firebase deploy --only functions"
   },
   "dependencies": {
-    "firebase-admin": "^6.0.0",
+    "firebase-admin": "^11.11.0",
     "firebase-functions": "^2.0.5",
     "dialogflow-fulfillment": "0.5.0",
     "actions-on-google": "2.3.0"
